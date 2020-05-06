@@ -1,0 +1,14 @@
+.idea
+.pyc
+/__pycache__
+
+bin/
+include/
+lib/
+static_root/
+
+# fow windows
+Scripts/
+tcl/
+
+pip-selfcheck.json
